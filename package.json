@@ -1,0 +1,14 @@
+{
+  "name": "cypressworkfolder",
+  "version": "1.0.0",
+  "description": "Testovete_na_beti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "beatris.dimitrovaaa@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  }
+}
